@@ -1,14 +1,5 @@
-import Link from 'next/link';
+import DeveloperPortfolio from './portfolio';
 
 export default function Home() {
-  return (
-    <div style={{ padding: 40 }}>
-      <h1>Welcome</h1>
-      <p>This is the home page.</p>
-
-      <Link href="/portfolio">
-        Go to Portfolio →
-      </Link>
-    </div>
-  );
+  return <DeveloperPortfolio />;
 }
