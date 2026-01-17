@@ -14,14 +14,14 @@ export default function DeveloperPortfolio() {
 
   // EDIT YOUR INFORMATION HERE
   const config = {
-    name: "Your Name",
-    tagline: "Aspiring Software Developer | Web & AI Enthusiast",
+    name: "Archit Gupta",
+    tagline: "Aspiring Software Developer | Web Developer | Problem Solver",
     avatar: "", // Optional: Add image URL or leave empty
     links: {
-      github: "https://github.com/yourusername",
-      linkedin: "https://linkedin.com/in/yourusername",
-      email: "your.email@example.com",
-      resume: "/resume.pdf" // Update with your resume link
+      github: "https://github.com/pichymango",
+      linkedin: "https://www.linkedin.com/in/pichymango75/",
+      email: "architg504@gmail.com",
+      resume: "#" // Update with your resume link
     },
     about: [
       "Passionate developer with a keen interest in building intelligent, user-centric applications that solve real-world problems.",
